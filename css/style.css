@@ -1,3 +1,22 @@
 body {
   font-family: Roboto, sans-serif;
+  background-color: rgba(203, 203, 194, 0.867);
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  height: 80vh;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(162, 160, 160);
+}
+
+@media screen and (max-width: 700px) {
+  #container {
+    width: 100%;
+  }
 }
