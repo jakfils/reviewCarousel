@@ -23,7 +23,7 @@ const teamMembers = [
   {
     userId: 4,
     picUrl: "./img",
-    name: "Jack Krooger",
+    name: "Amelie ASSOGBA",
     position: "Product Manager",
     bio: "Elit ut aliquam purus sit amet luctus venenatis lectus magna. Nec feugiat nisl pretium fusce id velit ut tortor pretium. A scelerisque purus semper eget duis at tellus. Est velit egestas dui id ornare arcu odio ut. Risus commodo viverra maecenas accumsan. Non curabitur gravida arcu ac totor.",
   },
