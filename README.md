@@ -4,6 +4,8 @@ A HTML, CSS and Vanilla JavaScript carousel of reviews with a button that genera
 
 ## Desktop view
 
-![Desktop view](./img/maquette1.JPG)
+![Desktop view](./img/desktop.JPG)
+
 ## Mobile view
-![Mobile view](./img/maquette2.JPG)
+
+![Mobile view](./img/mobile.JPG)
